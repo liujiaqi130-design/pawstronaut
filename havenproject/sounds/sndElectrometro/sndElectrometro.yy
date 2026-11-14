@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sndElectrometro",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":144.03918,
+  "exportDir":"",
+  "name":"sndElectrometro",
+  "parent":{
+    "name":"havenproject",
+    "path":"havenproject.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndElectrometro.mp3",
+  "volume":1.0,
+}

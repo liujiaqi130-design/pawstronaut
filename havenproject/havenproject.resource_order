@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Sprites","order":5,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oGround","order":4,"path":"objects/oGround/oGround.yy",},
+    {"name":"oGrounds","order":9,"path":"objects/oGrounds/oGrounds.yy",},
+    {"name":"oMovePlat","order":8,"path":"objects/oMovePlat/oMovePlat.yy",},
+    {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"sndElectrometro","order":7,"path":"sounds/sndElectrometro/sndElectrometro.yy",},
+    {"name":"sGround","order":1,"path":"sprites/sGround/sGround.yy",},
+    {"name":"sPlanet1","order":3,"path":"sprites/sPlanet1/sPlanet1.yy",},
+    {"name":"sSpace","order":2,"path":"sprites/sSpace/sSpace.yy",},
+    {"name":"tlBackground","order":6,"path":"tilesets/tlBackground/tlBackground.yy",},
+  ],
+}
