@@ -1,3 +1,15 @@
+if keyboard_check_direct(vk_f11)
+{
+    if window_get_fullscreen()
+    {
+        window_set_fullscreen(false);
+    }
+    else
+    {
+        window_set_fullscreen(true);
+    }
+}
+
 // Horizontal movement
 if (keyboard_check_direct(ord("D"))) {
     hspd = move;

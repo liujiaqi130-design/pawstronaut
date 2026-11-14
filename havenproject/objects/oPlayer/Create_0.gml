@@ -10,3 +10,5 @@ accel = 1;
 jumpaccel = 2;
 
 audio_play_sound(sndElectrometro, 1, true)
+
+fullscreen = false;

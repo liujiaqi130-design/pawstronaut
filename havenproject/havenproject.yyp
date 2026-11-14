@@ -29,6 +29,7 @@
     {"id":{"name":"sndElectrometro","path":"sounds/sndElectrometro/sndElectrometro.yy",},},
     {"id":{"name":"sGround","path":"sprites/sGround/sGround.yy",},},
     {"id":{"name":"sPlanet1","path":"sprites/sPlanet1/sPlanet1.yy",},},
+    {"id":{"name":"sPlanet2","path":"sprites/sPlanet2/sPlanet2.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"sSpace","path":"sprites/sSpace/sSpace.yy",},},
     {"id":{"name":"tlBackground","path":"tilesets/tlBackground/tlBackground.yy",},},

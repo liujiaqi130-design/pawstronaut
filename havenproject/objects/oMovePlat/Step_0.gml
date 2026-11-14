@@ -7,7 +7,7 @@ if (direction == 1) {
 
     if (mtime <= 0) {
         direction = -1;
-        mtime = 60;
+        mtime = mtimemax;
     }
 }
 else {
@@ -16,7 +16,7 @@ else {
 
     if (mtime <= 0) {
         direction = 1;
-        mtime = 60;
+        mtime = mtimemax;
     }
 }
 

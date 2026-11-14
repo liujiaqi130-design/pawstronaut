@@ -10,6 +10,7 @@
     {"name":"sndElectrometro","order":7,"path":"sounds/sndElectrometro/sndElectrometro.yy",},
     {"name":"sGround","order":1,"path":"sprites/sGround/sGround.yy",},
     {"name":"sPlanet1","order":3,"path":"sprites/sPlanet1/sPlanet1.yy",},
+    {"name":"sPlanet2","order":4,"path":"sprites/sPlanet2/sPlanet2.yy",},
     {"name":"sSpace","order":2,"path":"sprites/sSpace/sSpace.yy",},
     {"name":"tlBackground","order":6,"path":"tilesets/tlBackground/tlBackground.yy",},
   ],
