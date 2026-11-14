@@ -1,0 +1,1 @@
+global.open[1] = false;
